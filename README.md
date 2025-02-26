@@ -1,4 +1,4 @@
-# 送给安泰宝宝们的福利大礼包
+# 送给安泰宝宝们
 
 uu们！最近有小伙伴反馈，在浏览 [https://www.acem.sjtu.edu.cn/notices/87236.html](https://www.acem.sjtu.edu.cn/notices/87236.html) 这个页面时，
 只能看到带着 xxx 学号的同学的主修和辅修专业信息。
